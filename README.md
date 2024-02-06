@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=divyasai09&label=Profile%20views&color=0e75b6&style=flat" alt="divyasai09" /> </p>
 
-- 🌱 I’m currently learning **Deep Learning**
+- 🌱 I’m currently learning **Python,R**
 
 - 📫 How to reach me **dpoluru@gmu.edu, dspoluru12@gmail.com**
 
