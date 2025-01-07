@@ -1,7 +1,7 @@
 ![MasterHead](https://miro.medium.com/v2/resize:fit:1358/1*34WGNvh5yIUkfvjwnGQIyw.gif)
 <h1 align="center">Hi 👋, I'm Divya Sai Poluru</h1>
 <h3 align="center">Exploring the World of Data Analytics | George Mason University Graduate Student</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="200" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=divyasai09&label=Profile%20views&color=0e75b6&style=flat" alt="divyasai09" /> </p>
